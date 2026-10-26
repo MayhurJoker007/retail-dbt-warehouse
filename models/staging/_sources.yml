@@ -1,0 +1,13 @@
+version: 2
+
+seeds:
+  - name: raw_orders
+    description: Order headers as exported from the marketplace. Status casing is inconsistent.
+  - name: raw_order_lines
+    description: Order lines. The export sometimes writes a line twice when it retries.
+  - name: raw_products
+  - name: raw_product_prices
+    description: Price history per product, valid_to is empty for the current price.
+  - name: raw_outlets
+    description: Outlets as captured by field reps. Venue types are free text.
+  - name: raw_distributors

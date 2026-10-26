@@ -1,0 +1,10 @@
+id,distributor_id,sku,name,category,list_price_cents
+101,1,HB-COLA-330,Cola 330ml can (24),soft drinks,18990
+102,1,HB-WATER-500,Still water 500ml (24),soft drinks,9600
+103,1,HB-JUICE-1L,Orange juice 1L (12),juice,25450
+104,1,HB-ENERGY-250,Energy drink 250ml (24),soft drinks,31200
+201,2,CF-MEAL-10,Maize meal 10kg,staples,21000
+202,2,CF-OIL-2L,Cooking oil 2L (6),staples,39500
+203,2,CF-SUGAR-2,Sugar 2kg (10),staples,28500
+301,3,CS-CHIPS-125,Salted chips 125g (48),snacks,42000
+302,3,CS-NUTS-50,Peanuts 50g (100),snacks,36500
